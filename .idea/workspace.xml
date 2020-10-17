@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e07111d6-a9fa-4a00-a618-bc400575f0dc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/network.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/model/PiratenKapern.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/model/die.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/model/fortuneCard.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +133,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -151,22 +172,22 @@
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="2026" y="307" width="424" height="490" key="FileChooserDialogImpl/1280.0.1920.1080/0.202.1280.800@1280.0.1920.1080" timestamp="1602706652113" />
-    <state width="1874" height="235" key="GridCell.Tab.0.bottom" timestamp="1602905313878">
+    <state width="1874" height="235" key="GridCell.Tab.0.bottom" timestamp="1602906210213">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="235" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.202.1280.800@1280.0.1920.1080" timestamp="1602905313878" />
-    <state width="1874" height="235" key="GridCell.Tab.0.center" timestamp="1602905313878">
+    <state width="1874" height="235" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.202.1280.800@1280.0.1920.1080" timestamp="1602906210212" />
+    <state width="1874" height="235" key="GridCell.Tab.0.center" timestamp="1602906210212">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="235" key="GridCell.Tab.0.center/1280.0.1920.1080/0.202.1280.800@1280.0.1920.1080" timestamp="1602905313878" />
-    <state width="1874" height="235" key="GridCell.Tab.0.left" timestamp="1602905313878">
+    <state width="1874" height="235" key="GridCell.Tab.0.center/1280.0.1920.1080/0.202.1280.800@1280.0.1920.1080" timestamp="1602906210212" />
+    <state width="1874" height="235" key="GridCell.Tab.0.left" timestamp="1602906210212">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="235" key="GridCell.Tab.0.left/1280.0.1920.1080/0.202.1280.800@1280.0.1920.1080" timestamp="1602905313878" />
-    <state width="1874" height="235" key="GridCell.Tab.0.right" timestamp="1602905313878">
+    <state width="1874" height="235" key="GridCell.Tab.0.left/1280.0.1920.1080/0.202.1280.800@1280.0.1920.1080" timestamp="1602906210212" />
+    <state width="1874" height="235" key="GridCell.Tab.0.right" timestamp="1602906210212">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="235" key="GridCell.Tab.0.right/1280.0.1920.1080/0.202.1280.800@1280.0.1920.1080" timestamp="1602905313878" />
+    <state width="1874" height="235" key="GridCell.Tab.0.right/1280.0.1920.1080/0.202.1280.800@1280.0.1920.1080" timestamp="1602906210212" />
     <state width="1874" height="192" key="GridCell.Tab.1.bottom" timestamp="1602889823826">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
@@ -199,11 +220,6 @@
           <url>file://$PROJECT_DIR$/pkserver/model/piratenKapern.go</url>
           <line>84</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/test.go</url>
-          <line>29</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
